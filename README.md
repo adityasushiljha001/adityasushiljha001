@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Aditya Jha 👋
 
-<!--
-**adityasushiljha001/adityasushiljha001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a final-year Computer Science student passionate about building impactful software. I am actively looking for full-time Software Engineering or Web Development roles. I love building practical projects that solve everyday problems and exploring open-source communities.
 
-Here are some ideas to get you started:
+### 🔭 What I’m Up To
+- 🎓 Studying B.Tech at Sandip University.
+- 💻 Currently working on a project using Full-Stack Development.
+- 🌱 Learning Data Structures, Algorithms, and advanced web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | C, C++, Java, Python |
+| **Frameworks & Libraries** | React, Express.js, Node.js |
+| **Databases & Tools** | MongoDB, Git, GitHub, VS Code |
+
+### 📫 Let's Connect!
+- 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com)
+- 🌐 **Portfolio:** [Insert Link Here]
+- 📧 **Email:** adityasushiljha2004@gmail.com
