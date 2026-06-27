@@ -4,7 +4,7 @@ I am a final-year Computer Science student passionate about building impactful s
 
 ### 🔭 What I’m Up To
 - 🎓 Studying B.Tech at Sandip University.
-- 💻 Currently working on a project using Full-Stack Development.
+- 💻 I'm learning full-stack development and practicing by creating real-world web projects.
 - 🌱 Learning Data Structures, Algorithms, and advanced web technologies.
 
 ### 🛠️ Tech Stack & Tools
